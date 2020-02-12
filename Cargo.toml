@@ -1,0 +1,10 @@
+[package]
+name = "fs3ds"
+version = "1.0.0"
+authors = ["marius851000 <mariusdavid@laposte.net>"]
+edition = "2018"
+description = "a library to access romfs of unencrypted .3ds files"
+license = "CC0-1.0"
+
+[dependencies]
+vfs = "0.2.1"
